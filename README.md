@@ -1,4 +1,4 @@
-# Olá!! Eu Sou o Wallace Anterio
+# Olá!! Eu Sou Wallace Anterio
 - 💻 Hoje trabalho como desenvolvedor front-end
 - 🌱 Estudando Typescript e Angular
 
