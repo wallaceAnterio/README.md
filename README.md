@@ -1,5 +1,5 @@
 # Olá!! Eu Sou o Wallace Anterio
-- 💻 Hoje trabalho com front-end
+- 💻 Hoje trabalho como desenvolvedor front-end
 - 🌱 Estudando Typescript e Angular
 
 <div align="center">
