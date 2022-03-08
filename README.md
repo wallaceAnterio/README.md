@@ -1,6 +1,6 @@
 # Olá!! Eu Sou Wallace Anterio
 - 💻 Hoje trabalho como desenvolvedor front-end
-- 🌱 Estudando Frontend | HTML | CSS | JavaScript | Typescript | Angular 🚀🚀🚀
+- 🌱 ESTUDANDO FRONT-END | HTML | CSS | JAVASCRIPT | TYPESCRIPT | ANGULAR 🚀🚀🚀
 
 <div align="center">
   <a href="https://github.com/WallaceAnterio">
