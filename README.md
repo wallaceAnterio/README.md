@@ -1,6 +1,6 @@
 # Hi!! I'm Wallace Anterio
 - 💻 I'm front-end software developer
-- 🌱 STUDYING FRONT-END | HTML | CSS | JAVASCRIPT | TYPESCRIPT | ANGULAR 🚀🚀🚀
+- 🌱 STUDYING FRONT-END | HTML | CSS | JAVASCRIPT | TYPESCRIPT | ANGULAR | REACT 🚀🚀🚀
 
 <div align="center">
   <a href="https://github.com/WallaceAnterio">
