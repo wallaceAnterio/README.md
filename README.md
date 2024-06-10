@@ -1,5 +1,5 @@
 # Hi!! I'm Wallace Anterio
-- 💻 I'm front-end software developer
+- 💻 I'm a front-end software developer
 - 🌱 STUDYING FRONT-END | HTML | CSS | JAVASCRIPT | TYPESCRIPT | ANGULAR | .NET | SQL | 🚀🚀🚀
 
 <div align="center">
